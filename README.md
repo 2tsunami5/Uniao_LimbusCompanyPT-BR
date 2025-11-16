@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/0aa4ce11-2885-4328-8c0d-beeb0fa13169" width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/16f8eea0-7562-469a-876b-aa9f6eadd659" width="200" height="200"/>
 
-# Team PATO - Limbus Company Brasil (LCBPATO)
+# União - Limbus Company PT-BR
 Tradução brasileira de Limbus Company
 </div>
 
@@ -11,11 +11,11 @@ Este "mod" oferece a tradução em PT-BR para o Limbus Company
 
 Devido a como a Project Moon fez os arquivos de Limbus Company, a tradução será feita de uma maneira diferente. Ela será separada por levas, ou seja, a única coisa consistente será a tradução da história dos Cantos, Intervallos e História das Identidades.
 
-Os arquivos são muito bagunçados e totalmente desorganizados, o que prejudica e atrapalha bastante como a tradução é feita. Uma adição que, por causa disso, a chance de algo quebrar no jogo é bem alta. Se notar alguma coisa fora do lugar, algum texto quebrado ou algum softlock, nos avisem seja no: Bluesky, X/Twitter, Email ou aqui no guia.
+Os arquivos são muito bagunçados e totalmente desorganizados, o que prejudica e atrapalha bastante como a tradução é feita. Uma adição que, por causa disso, a chance de algo quebrar no jogo é bem alta.
 
 __Como irei saber que saiu tradução nova?__
 
-__R:__ Faremos questão de divulgar em todas as áreas possíveis, seja nas redes sociais e [Discord](https://discord.gg/G97Y6ESfzD). **Recomendamos usar o [LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager/)**
+__R:__ Através do [LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager/)
 
 __Por que a fonte está diferente do Oficial e alguns textos não estão traduzidos?__
 
@@ -27,7 +27,7 @@ __R:__ Não, para ter suporte para o mobile, nossa única opção é tentar conv
 
 __Não gostei da fonte atual. Como faço para substituir?__
 
-__R:__ No [team_resources](https://github.com/2tsunami5/Team-PATO_LimbusCompanyBrasil/tree/LCBPATO/team_resources/font) tem ambas as fontes, baixe a qual preferir e substitua no "LimbusCompany_Data\Lang\Português-Brasil\Font" nas duas pastas "Context" e "Title"
+__R:__ No [team_resources](https://github.com/2tsunami5/Uniao_LimbusCompanyPT-BR/tree/Uniao/team_resources/font) tem ambas as fontes, baixe a qual preferir e substitua no "LimbusCompany_Data\Lang\Português-Brasil\Font" nas duas pastas "Context" e "Title"
 
 <strike>Muito obrigado Project Moon por dificultar nosso trabalho de inúmeras maneiras</strike>
 
@@ -36,22 +36,22 @@ __R:__ No [team_resources](https://github.com/2tsunami5/Team-PATO_LimbusCompanyB
 
 Baixe o LimbusLocalizationManager no repositório: [LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager/). Releases >  LimbusLocalizationManager_#.#.#_x64-setup.exe 
 
-- Abra o launcher e clique no ícone que parece um mapa, selecione a tradução "LCBPATO" e clique no sinal de "+". O launcher possui suporte para o português, caso queira, clique no ícone de engrenagem e depois "interface language" e selecione "Português"
+- Abra o launcher e clique no ícone que parece um mapa, selecione a tradução "Uniao" e clique no sinal de "+". O launcher possui suporte para o português, caso queira, clique no ícone de engrenagem e depois "interface language" e selecione "Português"
 - Clique no ícone de casa e aperte o botão "atualizar & jogar"
-- O launcher sempre irá checar se há alguma atualização nova do [Releases](https://github.com/2tsunami5/Team-PATO_LimbusCompanyBrasil/releases/) e o jogo irá abrir automaticamente com a tradução selecionada
+- O launcher sempre irá checar se há alguma atualização nova do [Releases](https://github.com/2tsunami5/Uniao_LimbusCompanyPT-BR/releases) e o jogo irá abrir automaticamente com a tradução selecionada
 
 <ins>2ª Opção:</ins>
 
-Baixe os arquivos do repositório: [Releases](https://github.com/2tsunami5/Team-PATO_LimbusCompanyBrasil/releases/)
+Baixe os arquivos do repositório: [Releases](https://github.com/2tsunami5/Uniao_LimbusCompanyPT-BR/releases)
 
 - Crie uma pasta chamada "Lang" em "Limbus Company\LimbusCompany_Data"
-- Extraia o .zip "LCBPATO" e coloque os arquivos "Português-Brasil" e "config.json" dentro da pasta "Lang"
+- Extraia o .zip "Uniao" e coloque os arquivos "Português-Brasil" e "config.json" dentro da pasta "Lang"
 - Abra Limbus Company e clique na opção "Select Custom Language" e selecione "Português-Brasil"
 - Reinicie o jogo
 
 # Roteiro de Lançamento da Tradução
 - Primeira Leva <span>&#10003;</span> 
-- Segunda Leva
+- Segunda Leva <span>&#10003;</span>
 - Terceira Leva
 - Quarta Leva
 - Quinta Leva
@@ -60,26 +60,13 @@ Baixe os arquivos do repositório: [Releases](https://github.com/2tsunami5/Team-
 - Oitava Leva
 
 Mais detalhes sobre cada leva pode ser encontrada no guia do Steam [Tradução Brasileira de Limbus Company](https://steamcommunity.com/sharedfiles/filedetails/?id=3457301591)
-# Contato
-- Email: teampatotranslate@gmail.com
-- X/Twitter: https://x.com/TeamPato1215
-- Tiktok: https://www.tiktok.com/@teampato_1
-- Youtube: https://www.youtube.com/@TeamPatoTranslate
-- Bluesky: https://bsky.app/profile/teampato.bsky.social
-
-Saiba quem são os integrantes da Team Pato:
+# Créditos
 - 2tsunami5
-- Angel
-- Arucato
-- Boots
+- Boeno
 - Ciclotauro
-- Efeshis
-- Fadaestupidazul
-- LauraLobo
-- obulba
-- PandaBlack
-- Shoes
-- Tenshi
+- Limo
+- Kino
+- Starlink
 
 # Perguntas Frequentes
 __Tem algum risco de ban em usar este "mod"?__
