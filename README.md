@@ -13,6 +13,8 @@ Devido a como a Project Moon fez os arquivos de Limbus Company, a tradução ser
 
 Os arquivos são muito bagunçados e totalmente desorganizados, o que prejudica e atrapalha bastante como a tradução é feita. Uma adição que, por causa disso, a chance de algo quebrar no jogo é bem alta.
 
+**Com o encerramento oficial da [Team PATO](https://ibb.co/gFrmxdLD) da tradução de Limbus Company, essa nova equipe irá continuar onde pararam. Como liberaram acesso e deram livre-arbítrio por causa da MIT license, continuaremos com uma nova direção, pela paixão pelo projeto.**
+
 __Como irei saber que saiu tradução nova?__
 
 __R:__ Através do [LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager/)
@@ -28,8 +30,6 @@ __R:__ Não, para ter suporte para o mobile, nossa única opção é tentar conv
 __Não gostei da fonte atual. Como faço para substituir?__
 
 __R:__ No [team_resources](https://github.com/2tsunami5/Uniao_LimbusCompanyPT-BR/tree/Uniao/team_resources/font) tem ambas as fontes, baixe a qual preferir e substitua no "LimbusCompany_Data\Lang\Português-Brasil\Font" nas duas pastas "Context" e "Title"
-
-<strike>Muito obrigado Project Moon por dificultar nosso trabalho de inúmeras maneiras</strike>
 
 # Como Baixar
 <ins>1ª Opção:</ins>
