@@ -62,11 +62,11 @@ Baixe os arquivos do repositório: [Releases](https://github.com/2tsunami5/Uniao
 Mais detalhes sobre cada leva pode ser encontrada no guia do Steam [Tradução Brasileira de Limbus Company](https://steamcommunity.com/sharedfiles/filedetails/?id=3457301591)
 # Créditos
 - 2tsunami5
-- Boeno
-- Ciclotauro
 - Limo
 - Kino
 - Starlink
+
+~~- Ciclotauro~~
 
 # Perguntas Frequentes
 __Tem algum risco de ban em usar este "mod"?__
